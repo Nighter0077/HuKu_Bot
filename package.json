@@ -1,0 +1,11 @@
+{
+  "name": "chatbot",
+  "version": "0.0.1",
+  "description": "For test!!",
+  "private": "true",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "botbuilder-calling": "^3.0.1",
+    "restify": "^4.3.0"
+  }
+}
